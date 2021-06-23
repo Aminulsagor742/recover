@@ -1,0 +1,53 @@
+h1{
+
+  border: 5px dotted red;
+  background: yellowgreen;
+
+}
+
+.head1{
+
+	background: yellowgreen ;
+	border:5px dotted;
+	font-size: large;
+}
+
+h2{
+
+border: red dashed;
+
+}
+.head2{
+
+color: red;
+background:blue;
+text-underline-position: all;
+
+
+}
+
+.red{
+
+
+	color: red;
+}
+
+.blue{
+
+	color: blue;
+}
+.yellow{
+
+	color: yellow;
+}
+.blue1{
+
+	color: red;
+	background: yellowgreen;
+}
+.map{
+
+
+   width: 100%;
+   height: ;
+ }
